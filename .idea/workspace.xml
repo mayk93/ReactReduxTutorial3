@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a06dc83e-fb26-4dfe-b01a-8d426b10a54d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/index.js" afterPath="$PROJECT_DIR$/src/reducers/index.js" />
-    </list>
+    <list default="true" id="a06dc83e-fb26-4dfe-b01a-8d426b10a54d" name="Default" comment="" />
     <ignored path="ReactReduxTutorial3.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
